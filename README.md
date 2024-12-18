@@ -1,6 +1,6 @@
-QR Code Creator website
+QR Crab
 ==========================
-This is a QR-code creator website to easily create free QR codes.
+This is a open source QR-code creator website to easily create free QR codes.
 
 
 Table of Contents
