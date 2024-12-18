@@ -1,0 +1,14 @@
+{
+  "name": "doemaariets",
+  "version": "0.0.0",
+  "description": "Wat een gekut",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "kutlul"
+  ],
+  "author": "ikke",
+  "license": "UNLICENSED"
+}
