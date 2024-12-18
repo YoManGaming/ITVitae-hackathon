@@ -1,14 +1,15 @@
 {
-  "name": "doemaariets",
+  "name": "QRCrab",
   "version": "0.0.0",
-  "description": "Wat een gekut",
+  "description": "Free, Unlimited, Unmonitored QR Code Generator made in JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "test.js"
   },
   "keywords": [
-    "kutlul"
+    "Free",
+    "QR"
   ],
-  "author": "ikke",
+  "author": "CGR60",
   "license": "UNLICENSED"
 }
